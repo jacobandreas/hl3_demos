@@ -1,3 +1,9 @@
+data/
+dataset/**/*.json
+dataset/**/*.npz
+*.swp
+*.swo
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
